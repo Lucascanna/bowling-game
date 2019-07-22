@@ -1,0 +1,23 @@
+{
+  "name": "bowling-game",
+  "version": "1.0.0",
+  "description": "Kata 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap -o tap.log -b ./test/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucascanna/bowling-game.git"
+  },
+  "author": "Luca Scannapieco & Francesco Francomano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucascanna/bowling-game/issues"
+  },
+  "homepage": "https://github.com/Lucascanna/bowling-game#readme",
+  "dependencies": {
+    "glob": "^7.1.4",
+    "tap": "^14.4.2"
+  }
+}
