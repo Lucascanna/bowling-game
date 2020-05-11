@@ -1,2 +1,2 @@
 # bowling-game
-Kata
+This repo contains a Kata exercise.
